@@ -62,12 +62,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "/Users/xilidai/PycharmProjects/Delay-Xili.github.io/images"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xilidai/PycharmProjects/Delay-Xili.github.io/images&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -100,6 +100,7 @@
       <workItem from="1679379107945" duration="37000" />
       <workItem from="1690943015901" duration="500000" />
       <workItem from="1691210333027" duration="1342000" />
+      <workItem from="1703755218277" duration="125000" />
     </task>
     <servers />
   </component>
