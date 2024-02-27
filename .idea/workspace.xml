@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71c969b0-0a87-4cec-b567-a9a3ea80beed" name="Default Changelist" comment="" />
+    <list default="true" id="71c969b0-0a87-4cec-b567-a9a3ea80beed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/xilidai/PycharmProjects/Delay-Xili.github.io/images&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/xilidai/PycharmProjects/Delay-Xili.github.io&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -103,6 +106,8 @@
       <workItem from="1703755218277" duration="125000" />
       <workItem from="1703755535506" duration="341000" />
       <workItem from="1704868679019" duration="428000" />
+      <workItem from="1707742198099" duration="283000" />
+      <workItem from="1709005713818" duration="393000" />
     </task>
     <servers />
   </component>
